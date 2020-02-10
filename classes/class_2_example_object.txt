@@ -1,0 +1,15 @@
+styrofoam container
+
+attribute values
+  color = 'white'
+  material = 'styrofoam'
+  total_container_capacity = 4
+  current_container_capacity = 0
+  recyclable = true
+  stickers = ['restaurant logo']
+
+method results
+  color = 'black'
+  current_container_capacity = 2
+  calculate_percent_full = 0.5
+  stickers = ['restaurant logo', 'smiley face']
