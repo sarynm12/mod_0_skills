@@ -1,0 +1,15 @@
+class = to go container
+
+attributes
+  'color' (string)
+  'material' (string)
+  total_container_capacity (integer)
+  current_container_capacity (integer)
+  recyclable (boolean)
+  stickers (array)
+
+methods
+  'change_color' (changes the color attribute)
+  add_leftovers (increases current_container_capacity)
+  calculate_percent_full (divides current_container_capacity by total_container_capacity)
+  add_stickers (append a sticker item to the stickers array)
