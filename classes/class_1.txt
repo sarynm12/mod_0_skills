@@ -1,0 +1,13 @@
+class = mug
+
+attributes
+  'color' (string)
+  current_capacity (integer)
+  handle (boolean)
+  current_mug_temperature (integer)
+
+methods
+  change_color (changes the color attribute)
+  add_coffee (increases the attribute current_capacity)
+  remove_handle (changes handle boolean status from true to false)
+  heat_up (increases the current_mug_temperature attribute)
