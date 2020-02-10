@@ -1,0 +1,13 @@
+ceramic mug
+
+attribute values
+  color = 'red'
+  current_capacity = 4
+  handle = true
+  current_mug_temperature = 60
+
+method results
+  color = 'blue'
+  current_capacity = 12
+  handle = false
+  current_mug_temperature = 86
