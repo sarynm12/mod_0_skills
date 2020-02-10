@@ -1,0 +1,17 @@
+food = 'oatmeal'
+
+is_new = true
+
+food = 'cookie'
+
+num1 = 12
+
+num2 = 4
+
+num3 = num1 * num2
+
+movies = ['The Lion King', 'Cinderella', 'Mulan', 'Finding Nemo']
+
+movies.slice!(0,3)
+
+movies.count
